@@ -1,9 +1,9 @@
 {
-    "family": "octant-cicd-demo",
+    "family": "octant-small-sites-cicd",
     "containerDefinitions": [
         {
             "image": "%REPOSITORY_URI%:v_%BUILD_NUMBER%",
-            "name": "octant-cicd-demo",
+            "name": "octant-small-sites-cicd",
             "cpu": 10,
             "memory": 256,
             "essential": true,
