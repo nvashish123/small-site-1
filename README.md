@@ -1,3 +1,3 @@
 # small-site-1
 
-demo time 5
+demo time 6
