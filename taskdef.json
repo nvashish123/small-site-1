@@ -1,9 +1,9 @@
 {
-    "family": "small-site-1",
+    "family": "large-site-1",
     "containerDefinitions": [
         {
             "image": "%REPOSITORY_URI%:v_%BUILD_NUMBER%",
-            "name": "small-site-1",
+            "name": "large-site-1",
             "cpu": 10,
             "memory": 256,
             "essential": true,
