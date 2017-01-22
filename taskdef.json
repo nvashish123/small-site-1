@@ -1,9 +1,9 @@
 {
-    "family": "a-1",
+    "family": "b-1",
     "containerDefinitions": [
         {
             "image": "%REPOSITORY_URI%:v_%BUILD_NUMBER%",
-            "name": "a-1",
+            "name": "b-1",
             "cpu": 10,
             "memory": 256,
             "essential": true,
